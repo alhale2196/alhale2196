@@ -32,6 +32,67 @@
 - [ ] Business Coaching Website
 - [ ] Library Management System
 
+- [ ] Giveaway Countdown Webpage
+- [ ] Movie Theater Management Systen
+- [ ] Expense Tracker
+- [ ] Chat Application
+- [ ] Music Player
+- [ ] Recipe App
+- [ ] Car Rental Website
+- [ ] Job Board Platform
+- [ ] Video Streaming Platform
+- [ ] File Uploader
+- [ ] Password Generator
+- [ ] Voice Assistant
+- [ ] Note-taking App
+- [ ] Browser Extension
+- [ ] Calendar
+- [ ] Network Traffic Analyzer
+- [ ] Stock Market Tracker with Graphs
+- [ ] Polls and Survey Data Visualization
+- [ ] Population Density Map
+- [ ] Social Media Analytics Dashboard
+- [ ] Chess Game
+- [ ] Online Resume Builder
+- [ ] Electricity Billing System
+- [ ] Web Medical Management System
+- [ ] Supply Chain Management System
+- [ ] Exam Seating Arrangement System
+- [ ] Consumer Relationship Management System
+- [ ] Brand Page
+- [ ] Airbnb Clone Application
+- [ ] TMDB Movie Application
+- [ ] Github Jobs App
+- [ ] Business Card Generator
+- [ ] Chat-Bot Application
+- [ ] Movie Recomendation Engine
+- [ ] Credit Card Fraud Detection
+- [ ] Wildfire Tracker
+- [ ] Google Drive Clone
+- [ ] Fitness App
+- [ ] Facebook Clone
+- [ ] Instagram Clone
+- [ ] Full-Stack Amazon Clone
+- [ ] Voting Application
+- [ ] Discord Clone
+- [ ] Robinhood Clone
+- [ ] LinkedIn Clone
+- [ ] Gmail Clone
+- [ ] Full-Stack NFT Marketplace
+- [ ] Invoice Application
+- [ ] Full-Stack Twitter Clone
+- [ ] Real Estate App like Zillow
+- [ ] Neighborhood Lost and Found Forum
+- [ ] Smart Inventory Management for Small Shops
+- [ ] Digital Will and Estate Planner
+- [ ] Digital Notary and Document Signing Platform
+- [ ] Public Library Book Lending Tracker
+- [ ] Personal Finance System
+- [ ] Digital Postcard Creator
+- [ ] Classroom Management System
+- [ ] Bank Account Manager
+- [ ] Ride-sharing App
+
 
 ## C To Do
 
