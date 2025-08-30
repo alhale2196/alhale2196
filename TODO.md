@@ -1,7 +1,4 @@
-## To Do Items
-
-
-### Web Project Ideas
+## Web Project Ideas
 
 - [ ] Personal Portfolio Website
 - [ ] Blogging Platform
@@ -36,8 +33,7 @@
 - [ ] Library Management System
 
 
-
-### C To Do
+## C To Do
 
 - [ ] File Obfuscator
 - [ ] Credit Card Validator
@@ -62,8 +58,7 @@
 - [ ] School Management System
 
 
-
-### C++ To Do
+## C++ To Do
 
 - [ ] Bookshop Management System
 - [ ] Bank Management System
